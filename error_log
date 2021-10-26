@@ -1,0 +1,23 @@
+[03-Dec-2020 13:17:19 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[03-Dec-2020 13:18:02 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[03-Dec-2020 13:18:03 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[03-Dec-2020 13:18:37 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[03-Dec-2020 13:18:38 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[03-Dec-2020 13:19:05 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[03-Dec-2020 13:19:08 UTC] PHP Fatal error:  Can't use function return value in write context in /home/j4y2jawgy90n/public_html/application/controllers/Home.php on line 2521
+[17-Sep-2021 09:08:50 UTC] PHP Parse error:  syntax error, unexpected ''grep -Ril "find /home/usernam' (T_ENCAPSED_AND_WHITESPACE) in /home/iyaxx1w19rfm/public_html/test.php on line 2
+[17-Sep-2021 09:11:28 UTC] PHP Parse error:  syntax error, unexpected ''grep -Ril "find /home/iyaxx1w' (T_ENCAPSED_AND_WHITESPACE) in /home/iyaxx1w19rfm/public_html/test.php on line 2
+[17-Sep-2021 09:11:34 UTC] PHP Parse error:  syntax error, unexpected ''grep -Ril "find /home/iyaxx1w' (T_ENCAPSED_AND_WHITESPACE) in /home/iyaxx1w19rfm/public_html/test.php on line 2
+[17-Sep-2021 09:11:37 UTC] PHP Parse error:  syntax error, unexpected ''grep -Ril "find /home/iyaxx1w' (T_ENCAPSED_AND_WHITESPACE) in /home/iyaxx1w19rfm/public_html/test.php on line 2
+[17-Sep-2021 09:11:38 UTC] PHP Parse error:  syntax error, unexpected ''grep -Ril "find /home/iyaxx1w' (T_ENCAPSED_AND_WHITESPACE) in /home/iyaxx1w19rfm/public_html/test.php on line 2
+[24-Sep-2021 14:33:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 14:37:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 14:46:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 14:52:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 16:50:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 16:54:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 17:18:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[24-Sep-2021 17:22:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[25-Sep-2021 14:23:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[26-Sep-2021 05:01:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[26-Sep-2021 05:08:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /home/iyaxx1w19rfm/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
